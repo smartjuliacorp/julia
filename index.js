@@ -48,7 +48,41 @@ app.get('/callback', async (req, res) => {
 
         accessToken = response.data.access_token;
         console.log(`## accessToken: ${accessToken}`);
-        res.send('Authentication successful! Now you are able to fetch your account data.');
+        res.send(`
+            <html>
+                <head>
+                    <title>Authentication Successful</title>
+                    <style>
+                        body {
+                            font-family: Arial, sans-serif;
+                            text-align: center;
+                            padding: 50px;
+                            background-color: #f9f9f9;
+                        }
+                        h1 {
+                            color: #4CAF50;
+                        }
+                        p {
+                            font-size: 18px;
+                            color: #555;
+                        }
+                        a {
+                            text-decoration: none;
+                            color: #007BFF;
+                        }
+                        a:hover {
+                            text-decoration: underline;
+                        }
+                    </style>
+                </head>
+                <body>
+                    <h1>Authentication Successful!</h1>
+                    <p>Now you are able to fetch your account data.</p>
+                    <a href="/accounts">Click here to fetch your account data</a>
+                </body>
+            </html>
+        `);
+        
     } catch (error) {
         console.error('Error fetching tokens:', error);
         console.log('## error_details: ', error.response.data.error_details)
