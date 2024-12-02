@@ -15,8 +15,12 @@ app.use((err: Error, req: Request, res: Response, next: NextFunction) => {
     res.status(500).send(renderHtml('Error', 'An unexpected error occurred.'));
 });
 
+export { app }; // Export the app instance for testing
+
 // Start the server
-const PORT: number = parseInt(process.env.PORT || '3000', 10);
-app.listen(PORT, () => {
-    console.log(`Server running on http://localhost:${PORT}`);
-});
+if (require.main === module) {
+    const PORT: number = parseInt(process.env.PORT || '3000', 10);
+    app.listen(PORT, () => {
+        console.log(`Server running on http://localhost:${PORT}`);
+    });
+}
