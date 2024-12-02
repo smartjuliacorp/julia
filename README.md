@@ -1,2 +1,2 @@
 # julia
-FinanceGPT with Daily Pills
+Weekly personalized doses of financial wisdom
