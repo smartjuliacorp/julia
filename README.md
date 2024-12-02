@@ -1,2 +1,2 @@
 # julia
-Weekly personalized doses of financial wisdom
+Weekly personalized insights of financial wisdom
