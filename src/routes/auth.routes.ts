@@ -1,6 +1,6 @@
 import express, { Request, Response } from 'express';
 import { asyncHandler } from '../utils/asyncHandler';
-import { CLIENT_ID, CLIENT_SECRET, REDIRECT_URI, AUTH_URL, TOKEN_URL, PROVIDERS } from '../config/env';
+import { CLIENT_ID, CLIENT_SECRET, REDIRECT_URI, AUTH_URL, TOKEN_URL, PROVIDERS, SCOPE } from '../config/env';
 import axios from 'axios';
 import { renderHtml } from '../utils/renderHtml';
 
@@ -11,7 +11,7 @@ const authRouter = express.Router();
 authRouter.get(
     '/connect',
     (req: Request, res: Response) => {
-        const authUrl = `${AUTH_URL}/?response_type=code&client_id=${CLIENT_ID}&scope=info%20accounts%20balance%20cards%20transactions%20direct_debits%20standing_orders%20offline_access&redirect_uri=${REDIRECT_URI}&providers=${PROVIDERS}`;
+        const authUrl = `${AUTH_URL}/?response_type=code&client_id=${CLIENT_ID}&scope=${SCOPE}&redirect_uri=${REDIRECT_URI}&providers=${PROVIDERS}`;
         res.redirect(authUrl);
     }
 );

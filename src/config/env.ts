@@ -15,6 +15,7 @@ export const REDIRECT_URI: string = process.env.REDIRECT_URI!;
 export const AUTH_API: string = process.env.AUTH_API!;
 export const DATA_API: string = process.env.DATA_API!;
 export const PROVIDERS: string = process.env.PROVIDERS!;
+export const SCOPE: string = process.env.SCOPE!;
 export const AUTH_URL = `https://${AUTH_API}`;
 export const TOKEN_URL = `https://${AUTH_API}/connect/token`;
 export const DATA_URL = `https://${DATA_API}/data/v1`;
