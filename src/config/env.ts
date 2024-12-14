@@ -19,3 +19,5 @@ export const SCOPE: string = process.env.SCOPE!;
 export const AUTH_URL = `https://${AUTH_API}`;
 export const TOKEN_URL = `https://${AUTH_API}/connect/token`;
 export const DATA_URL = `https://${DATA_API}/data/v1`;
+
+export const ACCESS_TOKEN: string = process.env.ACCESS_TOKEN!;
