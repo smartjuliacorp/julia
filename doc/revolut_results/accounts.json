@@ -1,0 +1,21 @@
+{
+  "results": [
+    {
+      "update_timestamp": "2024-12-16T21:59:29.602Z",
+      "account_id": "4c48fef07c7341d19df950a1eca9b4bc",
+      "account_type": "TRANSACTION",
+      "display_name": "JULIA BARROS JATOBA",
+      "currency": "EUR",
+      "account_number": {
+        "iban": "LT142394482534521837",
+        "swift_bic": "REVOLT21"
+      },
+      "provider": {
+        "display_name": "REVOLUT-PT",
+        "provider_id": "ob-revolut-pt",
+        "logo_uri": "https://truelayer-client-logos.s3-eu-west-1.amazonaws.com/banks/banks-icons/ob-revolut-pt-icon.svg"
+      }
+    }
+  ],
+  "status": "Succeeded"
+}

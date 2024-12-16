@@ -1,0 +1,23 @@
+{
+  "results": [
+    {
+      "timestamp": "2024-12-14T10:41:45.35Z",
+      "description": "Open banking topup",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 10,
+      "currency": "EUR",
+      "transaction_id": "c7e3ec5b4f52ea554da83580c550047e",
+      "provider_transaction_id": "675d60e9-1f8b-ab17-aca0-cffc131d185c",
+      "normalised_provider_transaction_id": "txn-069910315caa7e158",
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Credit",
+        "provider_id": "675d60e9-1f8b-ab17-aca0-cffc131d185c",
+        "user_comments": "OBAMTE43207A2RFGG"
+      }
+    }
+  ],
+  "status": "Succeeded"
+}

@@ -1,0 +1,70 @@
+{
+  "results": [
+    {
+      "timestamp": "2024-12-14T10:42:04.039Z",
+      "description": "OBA topup from JULIA BARROS JATOBA",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 10,
+      "currency": "EUR",
+      "transaction_id": "ad26c74cbaf10020ba2b878e905b6820",
+      "provider_transaction_id": "675d60fc-56c2-a5c8-b328-585ba0893f51",
+      "normalised_provider_transaction_id": "txn-1c5348d747a408c1f",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": 10
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Credit",
+        "provider_id": "675d60fc-56c2-a5c8-b328-585ba0893f51",
+        "counter_party_preferred_name": "JULIA BARROS JATOBA",
+        "user_comments": "OBAHR2WH4EF2KCWC0"
+      }
+    },
+    {
+      "timestamp": "2024-12-10T19:36:07.242Z",
+      "description": "Exchanged to DOGE",
+      "transaction_type": "DEBIT",
+      "transaction_category": "OTHER",
+      "transaction_classification": [],
+      "amount": -10,
+      "currency": "EUR",
+      "transaction_id": "70f63bd7266e154fc4bb934a7cdad512",
+      "provider_transaction_id": "67589827-07db-a54b-98a1-48b134dc6a91",
+      "normalised_provider_transaction_id": "txn-99dda4117df053812",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": 0
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Debit",
+        "provider_id": "67589827-07db-a54b-98a1-48b134dc6a91"
+      }
+    },
+    {
+      "timestamp": "2024-12-09T22:16:29.841Z",
+      "description": "Top-Up by *2718",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 10,
+      "currency": "EUR",
+      "transaction_id": "67d89817ec4c1f4bee78f1a6a9bab87d",
+      "provider_transaction_id": "67576c3d-83a2-aa74-baf5-3ce35682a3e1",
+      "normalised_provider_transaction_id": "txn-32ad8a78d1e375354",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": 10
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Credit",
+        "provider_id": "67576c3d-83a2-aa74-baf5-3ce35682a3e1"
+      }
+    }
+  ],
+  "status": "Succeeded"
+}

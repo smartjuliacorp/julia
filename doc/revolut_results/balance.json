@@ -1,0 +1,12 @@
+{
+  "results": [
+    {
+      "currency": "EUR",
+      "available": 10,
+      "current": 10,
+      "overdraft": 0,
+      "update_timestamp": "2024-12-16T22:13:22.863Z"
+    }
+  ],
+  "status": "Succeeded"
+}
