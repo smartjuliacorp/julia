@@ -1,6 +1,7 @@
 import express, { Request, Response, NextFunction } from 'express';
 import { authRouter } from './routes/auth.routes';
 import { dataRouter } from './routes/data.routes';
+import { brainRouter } from './routes/brain.routes';
 import { renderHtml } from './utils/renderHtml';
 
 const app = express();
@@ -8,6 +9,7 @@ const app = express();
 // Mount routers
 app.use(authRouter);
 app.use(dataRouter);
+app.use(brainRouter);
 
 // Global error-handling middleware
 app.use((err: Error, req: Request, res: Response, next: NextFunction) => {

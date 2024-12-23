@@ -1,0 +1,2105 @@
+{
+  "results": [
+    {
+      "timestamp": "2023-12-18T16:28:22Z",
+      "description": "Grocery Store Payment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -55.12,
+      "currency": "EUR",
+      "transaction_id": "6cc4a0",
+      "provider_transaction_id": "1ac3ca",
+      "normalised_provider_transaction_id": "txn-90e3df",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -55.12
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Debit",
+        "provider_id": "2c7c2f"
+      }
+    },
+    {
+      "timestamp": "2024-04-11T08:13:45Z",
+      "description": "Salary Payment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -59.27,
+      "currency": "EUR",
+      "transaction_id": "482aa1",
+      "provider_transaction_id": "72329f",
+      "normalised_provider_transaction_id": "txn-7768d6",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -114.39
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Debit",
+        "provider_id": "9272ab"
+      }
+    },
+    {
+      "timestamp": "2023-01-27T21:30:45Z",
+      "description": "Salary Payment",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 93.86,
+      "currency": "EUR",
+      "transaction_id": "1fe12a",
+      "provider_transaction_id": "8d91f3",
+      "normalised_provider_transaction_id": "txn-2a4065",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -20.53
+      },
+      "meta": {
+        "provider_category": "BILL",
+        "transaction_type": "Credit",
+        "provider_id": "405313"
+      }
+    },
+    {
+      "timestamp": "2023-08-18T19:45:49Z",
+      "description": "Gift Received",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 49.4,
+      "currency": "EUR",
+      "transaction_id": "303da0",
+      "provider_transaction_id": "96ccee",
+      "normalised_provider_transaction_id": "txn-827e26",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": 28.87
+      },
+      "meta": {
+        "provider_category": "TRANSFER",
+        "transaction_type": "Credit",
+        "provider_id": "39e497"
+      }
+    },
+    {
+      "timestamp": "2024-11-07T15:54:03Z",
+      "description": "Salary Payment",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 38.06,
+      "currency": "EUR",
+      "transaction_id": "619f77",
+      "provider_transaction_id": "537625",
+      "normalised_provider_transaction_id": "txn-8fb221",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": 66.93
+      },
+      "meta": {
+        "provider_category": "PAYMENT",
+        "transaction_type": "Credit",
+        "provider_id": "640f14"
+      }
+    },
+    {
+      "timestamp": "2024-06-28T01:20:13Z",
+      "description": "Coffee Shop Payment",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 71.2,
+      "currency": "EUR",
+      "transaction_id": "7bf1b4",
+      "provider_transaction_id": "845652",
+      "normalised_provider_transaction_id": "txn-3dc835",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": 138.13
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Credit",
+        "provider_id": "8e0b2e"
+      }
+    },
+    {
+      "timestamp": "2023-11-21T20:52:13Z",
+      "description": "Gift Received",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -73.97,
+      "currency": "EUR",
+      "transaction_id": "320e25",
+      "provider_transaction_id": "131518",
+      "normalised_provider_transaction_id": "txn-86ff16",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": 64.16
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Debit",
+        "provider_id": "3de8f0"
+      }
+    },
+    {
+      "timestamp": "2023-05-08T01:23:00Z",
+      "description": "Water Bill Payment",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 50.48,
+      "currency": "EUR",
+      "transaction_id": "4f7672",
+      "provider_transaction_id": "71a196",
+      "normalised_provider_transaction_id": "txn-14be33",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": 114.64
+      },
+      "meta": {
+        "provider_category": "BILL",
+        "transaction_type": "Credit",
+        "provider_id": "40ea9e"
+      }
+    },
+    {
+      "timestamp": "2023-12-14T03:17:00Z",
+      "description": "Electricity Bill Payment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -36.52,
+      "currency": "EUR",
+      "transaction_id": "4ae161",
+      "provider_transaction_id": "81505a",
+      "normalised_provider_transaction_id": "txn-36d8b0",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": 78.12
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Debit",
+        "provider_id": "3d8076"
+      }
+    },
+    {
+      "timestamp": "2023-05-16T03:47:41Z",
+      "description": "Crypto Purchase",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -29.39,
+      "currency": "EUR",
+      "transaction_id": "71d509",
+      "provider_transaction_id": "2bb03f",
+      "normalised_provider_transaction_id": "txn-66197a",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": 48.73
+      },
+      "meta": {
+        "provider_category": "PAYMENT",
+        "transaction_type": "Debit",
+        "provider_id": "2c3e86"
+      }
+    },
+    {
+      "timestamp": "2024-09-05T23:52:50Z",
+      "description": "Netflix Subscription",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 40.68,
+      "currency": "EUR",
+      "transaction_id": "62c2fb",
+      "provider_transaction_id": "3fb568",
+      "normalised_provider_transaction_id": "txn-1a53dc",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": 89.41
+      },
+      "meta": {
+        "provider_category": "TRANSFER",
+        "transaction_type": "Credit",
+        "provider_id": "120c86"
+      }
+    },
+    {
+      "timestamp": "2024-02-16T09:52:56Z",
+      "description": "Electricity Bill Payment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -38.43,
+      "currency": "EUR",
+      "transaction_id": "1b7758",
+      "provider_transaction_id": "3d6903",
+      "normalised_provider_transaction_id": "txn-8fc210",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": 50.98
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Debit",
+        "provider_id": "176a41"
+      }
+    },
+    {
+      "timestamp": "2023-09-04T04:39:14Z",
+      "description": "Loan Repayment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -91.96,
+      "currency": "EUR",
+      "transaction_id": "5bae53",
+      "provider_transaction_id": "7c7456",
+      "normalised_provider_transaction_id": "txn-627eee",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -40.98
+      },
+      "meta": {
+        "provider_category": "PAYMENT",
+        "transaction_type": "Debit",
+        "provider_id": "40164c"
+      }
+    },
+    {
+      "timestamp": "2023-11-20T10:27:05Z",
+      "description": "Charity Donation",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -25.56,
+      "currency": "EUR",
+      "transaction_id": "21ebac",
+      "provider_transaction_id": "34ad79",
+      "normalised_provider_transaction_id": "txn-8bb000",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -66.54
+      },
+      "meta": {
+        "provider_category": "TRANSFER",
+        "transaction_type": "Debit",
+        "provider_id": "8bd8fb"
+      }
+    },
+    {
+      "timestamp": "2023-05-03T13:53:44Z",
+      "description": "Loan Repayment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -42.39,
+      "currency": "EUR",
+      "transaction_id": "600916",
+      "provider_transaction_id": "4573d6",
+      "normalised_provider_transaction_id": "txn-93f7cc",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -108.93
+      },
+      "meta": {
+        "provider_category": "TRANSFER",
+        "transaction_type": "Debit",
+        "provider_id": "719ade"
+      }
+    },
+    {
+      "timestamp": "2023-05-23T18:12:04Z",
+      "description": "Coffee Shop Payment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -71.35,
+      "currency": "EUR",
+      "transaction_id": "61b603",
+      "provider_transaction_id": "387b33",
+      "normalised_provider_transaction_id": "txn-5c72be",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -180.28
+      },
+      "meta": {
+        "provider_category": "TRANSFER",
+        "transaction_type": "Debit",
+        "provider_id": "7ab250"
+      }
+    },
+    {
+      "timestamp": "2023-12-11T18:08:26Z",
+      "description": "Gym Membership",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 9.28,
+      "currency": "EUR",
+      "transaction_id": "5773a1",
+      "provider_transaction_id": "15edee",
+      "normalised_provider_transaction_id": "txn-6dc3f3",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -171.0
+      },
+      "meta": {
+        "provider_category": "BILL",
+        "transaction_type": "Credit",
+        "provider_id": "4c20b4"
+      }
+    },
+    {
+      "timestamp": "2024-01-01T12:51:50Z",
+      "description": "Charity Donation",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -67.93,
+      "currency": "EUR",
+      "transaction_id": "5b5535",
+      "provider_transaction_id": "8a62df",
+      "normalised_provider_transaction_id": "txn-79735b",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -238.93
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Debit",
+        "provider_id": "278ef0"
+      }
+    },
+    {
+      "timestamp": "2024-06-11T10:53:46Z",
+      "description": "Charity Donation",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -22.2,
+      "currency": "EUR",
+      "transaction_id": "7e3156",
+      "provider_transaction_id": "841085",
+      "normalised_provider_transaction_id": "txn-2a77f5",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -261.13
+      },
+      "meta": {
+        "provider_category": "PAYMENT",
+        "transaction_type": "Debit",
+        "provider_id": "2b6e5b"
+      }
+    },
+    {
+      "timestamp": "2023-10-03T19:05:13Z",
+      "description": "Gym Membership",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -31.31,
+      "currency": "EUR",
+      "transaction_id": "8a407d",
+      "provider_transaction_id": "96de8f",
+      "normalised_provider_transaction_id": "txn-564d8b",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -292.44
+      },
+      "meta": {
+        "provider_category": "BILL",
+        "transaction_type": "Debit",
+        "provider_id": "160234"
+      }
+    },
+    {
+      "timestamp": "2024-01-07T14:30:05Z",
+      "description": "Water Bill Payment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -14.59,
+      "currency": "EUR",
+      "transaction_id": "410f25",
+      "provider_transaction_id": "397e50",
+      "normalised_provider_transaction_id": "txn-96e6b0",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -307.03
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Debit",
+        "provider_id": "281602"
+      }
+    },
+    {
+      "timestamp": "2023-11-12T11:12:00Z",
+      "description": "Loan Repayment",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 81.15,
+      "currency": "EUR",
+      "transaction_id": "2e89f3",
+      "provider_transaction_id": "7fe8b7",
+      "normalised_provider_transaction_id": "txn-417bad",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -225.88
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Credit",
+        "provider_id": "66d8ef"
+      }
+    },
+    {
+      "timestamp": "2024-10-12T15:57:42Z",
+      "description": "Grocery Store Payment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -36.3,
+      "currency": "EUR",
+      "transaction_id": "5ce63b",
+      "provider_transaction_id": "1be39a",
+      "normalised_provider_transaction_id": "txn-34bdae",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -262.18
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Debit",
+        "provider_id": "36687c"
+      }
+    },
+    {
+      "timestamp": "2023-11-22T09:11:13Z",
+      "description": "Coffee Shop Payment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -83.27,
+      "currency": "EUR",
+      "transaction_id": "261862",
+      "provider_transaction_id": "7137ec",
+      "normalised_provider_transaction_id": "txn-8b4e23",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -345.45
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Debit",
+        "provider_id": "486b6f"
+      }
+    },
+    {
+      "timestamp": "2024-02-24T22:17:20Z",
+      "description": "Gift Received",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 68.7,
+      "currency": "EUR",
+      "transaction_id": "75c154",
+      "provider_transaction_id": "21d3ea",
+      "normalised_provider_transaction_id": "txn-428205",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -276.75
+      },
+      "meta": {
+        "provider_category": "BILL",
+        "transaction_type": "Credit",
+        "provider_id": "6b84d0"
+      }
+    },
+    {
+      "timestamp": "2024-03-14T22:47:48Z",
+      "description": "Netflix Subscription",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 83.12,
+      "currency": "EUR",
+      "transaction_id": "87f1d6",
+      "provider_transaction_id": "4d5961",
+      "normalised_provider_transaction_id": "txn-8cb30c",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -193.63
+      },
+      "meta": {
+        "provider_category": "TRANSFER",
+        "transaction_type": "Credit",
+        "provider_id": "7c2ceb"
+      }
+    },
+    {
+      "timestamp": "2023-03-23T02:27:12Z",
+      "description": "Uber Ride Payment",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 63.48,
+      "currency": "EUR",
+      "transaction_id": "8005d2",
+      "provider_transaction_id": "301136",
+      "normalised_provider_transaction_id": "txn-72d3a6",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -130.15
+      },
+      "meta": {
+        "provider_category": "PAYMENT",
+        "transaction_type": "Credit",
+        "provider_id": "5f012d"
+      }
+    },
+    {
+      "timestamp": "2024-06-10T07:16:58Z",
+      "description": "Gift Received",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 5.4,
+      "currency": "EUR",
+      "transaction_id": "5fa0dc",
+      "provider_transaction_id": "61b9b2",
+      "normalised_provider_transaction_id": "txn-6755bd",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -124.75
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Credit",
+        "provider_id": "771197"
+      }
+    },
+    {
+      "timestamp": "2024-05-01T18:09:21Z",
+      "description": "Credit Card Payment",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 3.1,
+      "currency": "EUR",
+      "transaction_id": "2aa92f",
+      "provider_transaction_id": "903dad",
+      "normalised_provider_transaction_id": "txn-2ff7cb",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -121.65
+      },
+      "meta": {
+        "provider_category": "TRANSFER",
+        "transaction_type": "Credit",
+        "provider_id": "31fa8f"
+      }
+    },
+    {
+      "timestamp": "2024-12-10T00:04:00Z",
+      "description": "Gift Received",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 5.97,
+      "currency": "EUR",
+      "transaction_id": "944e15",
+      "provider_transaction_id": "3c0607",
+      "normalised_provider_transaction_id": "txn-513204",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -115.68
+      },
+      "meta": {
+        "provider_category": "BILL",
+        "transaction_type": "Credit",
+        "provider_id": "16af66"
+      }
+    },
+    {
+      "timestamp": "2023-07-05T04:18:13Z",
+      "description": "OBA topup from Victor",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 78.02,
+      "currency": "EUR",
+      "transaction_id": "209d5e",
+      "provider_transaction_id": "93946d",
+      "normalised_provider_transaction_id": "txn-474af6",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -37.66
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Credit",
+        "provider_id": "7871ce"
+      }
+    },
+    {
+      "timestamp": "2023-04-20T14:47:54Z",
+      "description": "Gift Received",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 10.53,
+      "currency": "EUR",
+      "transaction_id": "2888a5",
+      "provider_transaction_id": "7a85cd",
+      "normalised_provider_transaction_id": "txn-115fcb",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -27.13
+      },
+      "meta": {
+        "provider_category": "PAYMENT",
+        "transaction_type": "Credit",
+        "provider_id": "35ee8f"
+      }
+    },
+    {
+      "timestamp": "2024-05-25T22:50:27Z",
+      "description": "Credit Card Payment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -32.03,
+      "currency": "EUR",
+      "transaction_id": "2fc6dc",
+      "provider_transaction_id": "55a73a",
+      "normalised_provider_transaction_id": "txn-449515",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -59.16
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Debit",
+        "provider_id": "8ce24b"
+      }
+    },
+    {
+      "timestamp": "2023-01-05T22:17:42Z",
+      "description": "Loan Repayment",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 53.82,
+      "currency": "EUR",
+      "transaction_id": "1b9611",
+      "provider_transaction_id": "2ae13c",
+      "normalised_provider_transaction_id": "txn-42a452",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -5.34
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Credit",
+        "provider_id": "559870"
+      }
+    },
+    {
+      "timestamp": "2023-05-27T13:00:31Z",
+      "description": "Online Shopping",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -29.61,
+      "currency": "EUR",
+      "transaction_id": "35358a",
+      "provider_transaction_id": "97158c",
+      "normalised_provider_transaction_id": "txn-68c5d3",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -34.95
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Debit",
+        "provider_id": "51133d"
+      }
+    },
+    {
+      "timestamp": "2024-10-11T12:56:52Z",
+      "description": "Netflix Subscription",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 35.11,
+      "currency": "EUR",
+      "transaction_id": "103273",
+      "provider_transaction_id": "57e128",
+      "normalised_provider_transaction_id": "txn-7ca2d9",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": 0.16
+      },
+      "meta": {
+        "provider_category": "TRANSFER",
+        "transaction_type": "Credit",
+        "provider_id": "7dddcc"
+      }
+    },
+    {
+      "timestamp": "2024-01-10T19:11:11Z",
+      "description": "Credit Card Payment",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 18.1,
+      "currency": "EUR",
+      "transaction_id": "3d5f1d",
+      "provider_transaction_id": "316f72",
+      "normalised_provider_transaction_id": "txn-57a64c",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": 18.26
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Credit",
+        "provider_id": "2cab8c"
+      }
+    },
+    {
+      "timestamp": "2024-11-06T04:41:25Z",
+      "description": "Gym Membership",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -19.4,
+      "currency": "EUR",
+      "transaction_id": "697481",
+      "provider_transaction_id": "6d292b",
+      "normalised_provider_transaction_id": "txn-1873d6",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -1.14
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Debit",
+        "provider_id": "8abca4"
+      }
+    },
+    {
+      "timestamp": "2023-12-06T10:10:25Z",
+      "description": "Electricity Bill Payment",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 70.57,
+      "currency": "EUR",
+      "transaction_id": "83335a",
+      "provider_transaction_id": "29efe5",
+      "normalised_provider_transaction_id": "txn-148f87",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": 69.43
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Credit",
+        "provider_id": "809405"
+      }
+    },
+    {
+      "timestamp": "2023-05-10T15:04:41Z",
+      "description": "Water Bill Payment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -98.93,
+      "currency": "EUR",
+      "transaction_id": "77e31a",
+      "provider_transaction_id": "668a36",
+      "normalised_provider_transaction_id": "txn-45253b",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -29.5
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Debit",
+        "provider_id": "323518"
+      }
+    },
+    {
+      "timestamp": "2024-10-30T01:57:07Z",
+      "description": "OBA topup from Victor",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -49.45,
+      "currency": "EUR",
+      "transaction_id": "309d08",
+      "provider_transaction_id": "157466",
+      "normalised_provider_transaction_id": "txn-327e86",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -78.95
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Debit",
+        "provider_id": "381c70"
+      }
+    },
+    {
+      "timestamp": "2024-10-26T06:36:14Z",
+      "description": "Gift Received",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -75.4,
+      "currency": "EUR",
+      "transaction_id": "1274dd",
+      "provider_transaction_id": "50c7b5",
+      "normalised_provider_transaction_id": "txn-443a1a",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -154.35
+      },
+      "meta": {
+        "provider_category": "PAYMENT",
+        "transaction_type": "Debit",
+        "provider_id": "3fed61"
+      }
+    },
+    {
+      "timestamp": "2023-02-13T12:11:47Z",
+      "description": "Gym Membership",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -84.58,
+      "currency": "EUR",
+      "transaction_id": "373458",
+      "provider_transaction_id": "59ed2b",
+      "normalised_provider_transaction_id": "txn-4a298c",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -238.93
+      },
+      "meta": {
+        "provider_category": "TRANSFER",
+        "transaction_type": "Debit",
+        "provider_id": "92c41e"
+      }
+    },
+    {
+      "timestamp": "2024-02-11T11:13:27Z",
+      "description": "OBA topup from Victor",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 50.06,
+      "currency": "EUR",
+      "transaction_id": "6b5c2a",
+      "provider_transaction_id": "94d642",
+      "normalised_provider_transaction_id": "txn-7a45b7",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -188.87
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Credit",
+        "provider_id": "8507fa"
+      }
+    },
+    {
+      "timestamp": "2023-04-19T14:43:25Z",
+      "description": "Online Shopping",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 19.02,
+      "currency": "EUR",
+      "transaction_id": "33d772",
+      "provider_transaction_id": "487cd5",
+      "normalised_provider_transaction_id": "txn-905661",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -169.85
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Credit",
+        "provider_id": "2ab87d"
+      }
+    },
+    {
+      "timestamp": "2023-11-14T07:31:40Z",
+      "description": "Netflix Subscription",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -80.26,
+      "currency": "EUR",
+      "transaction_id": "762c2b",
+      "provider_transaction_id": "83a7b2",
+      "normalised_provider_transaction_id": "txn-2a97d5",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -250.11
+      },
+      "meta": {
+        "provider_category": "PAYMENT",
+        "transaction_type": "Debit",
+        "provider_id": "3aa7de"
+      }
+    },
+    {
+      "timestamp": "2024-01-12T05:33:28Z",
+      "description": "OBA topup from Victor",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -6.8,
+      "currency": "EUR",
+      "transaction_id": "9139df",
+      "provider_transaction_id": "91da79",
+      "normalised_provider_transaction_id": "txn-3dbf62",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -256.91
+      },
+      "meta": {
+        "provider_category": "TRANSFER",
+        "transaction_type": "Debit",
+        "provider_id": "207732"
+      }
+    },
+    {
+      "timestamp": "2024-05-05T08:02:16Z",
+      "description": "Salary Payment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -39.63,
+      "currency": "EUR",
+      "transaction_id": "755311",
+      "provider_transaction_id": "2fa1f2",
+      "normalised_provider_transaction_id": "txn-577aee",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -296.54
+      },
+      "meta": {
+        "provider_category": "TRANSFER",
+        "transaction_type": "Debit",
+        "provider_id": "59602f"
+      }
+    },
+    {
+      "timestamp": "2023-08-05T06:10:15Z",
+      "description": "Water Bill Payment",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 49.23,
+      "currency": "EUR",
+      "transaction_id": "6f9f0f",
+      "provider_transaction_id": "591959",
+      "normalised_provider_transaction_id": "txn-86131c",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -247.31
+      },
+      "meta": {
+        "provider_category": "BILL",
+        "transaction_type": "Credit",
+        "provider_id": "275791"
+      }
+    },
+    {
+      "timestamp": "2024-08-24T10:51:40Z",
+      "description": "Crypto Purchase",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -44.23,
+      "currency": "EUR",
+      "transaction_id": "6cf948",
+      "provider_transaction_id": "53b419",
+      "normalised_provider_transaction_id": "txn-10e475",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -291.54
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Debit",
+        "provider_id": "49c131"
+      }
+    },
+    {
+      "timestamp": "2023-06-04T02:08:19Z",
+      "description": "Salary Payment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -11.42,
+      "currency": "EUR",
+      "transaction_id": "7c1fc0",
+      "provider_transaction_id": "8f68fe",
+      "normalised_provider_transaction_id": "txn-6323dc",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -302.96
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Debit",
+        "provider_id": "855412"
+      }
+    },
+    {
+      "timestamp": "2023-11-05T03:07:12Z",
+      "description": "Loan Repayment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -41.2,
+      "currency": "EUR",
+      "transaction_id": "186bdf",
+      "provider_transaction_id": "1c83b2",
+      "normalised_provider_transaction_id": "txn-1f85d9",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -344.16
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Debit",
+        "provider_id": "2125f7"
+      }
+    },
+    {
+      "timestamp": "2024-05-31T21:45:59Z",
+      "description": "Charity Donation",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -70.3,
+      "currency": "EUR",
+      "transaction_id": "76adba",
+      "provider_transaction_id": "4430af",
+      "normalised_provider_transaction_id": "txn-22b805",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -414.46
+      },
+      "meta": {
+        "provider_category": "TRANSFER",
+        "transaction_type": "Debit",
+        "provider_id": "4ebb50"
+      }
+    },
+    {
+      "timestamp": "2023-06-12T18:49:44Z",
+      "description": "Loan Repayment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -29.84,
+      "currency": "EUR",
+      "transaction_id": "16c300",
+      "provider_transaction_id": "6cd8c1",
+      "normalised_provider_transaction_id": "txn-186476",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -444.3
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Debit",
+        "provider_id": "7665c5"
+      }
+    },
+    {
+      "timestamp": "2024-01-28T13:13:50Z",
+      "description": "Electricity Bill Payment",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 73.01,
+      "currency": "EUR",
+      "transaction_id": "81f0c9",
+      "provider_transaction_id": "166605",
+      "normalised_provider_transaction_id": "txn-4438b4",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -371.29
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Credit",
+        "provider_id": "1ffaca"
+      }
+    },
+    {
+      "timestamp": "2024-04-06T08:39:40Z",
+      "description": "Online Shopping",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -55.94,
+      "currency": "EUR",
+      "transaction_id": "912f88",
+      "provider_transaction_id": "2332dc",
+      "normalised_provider_transaction_id": "txn-63f9aa",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -427.23
+      },
+      "meta": {
+        "provider_category": "PAYMENT",
+        "transaction_type": "Debit",
+        "provider_id": "62842d"
+      }
+    },
+    {
+      "timestamp": "2023-12-24T04:12:17Z",
+      "description": "Crypto Purchase",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 75.38,
+      "currency": "EUR",
+      "transaction_id": "56a6c6",
+      "provider_transaction_id": "8cb82a",
+      "normalised_provider_transaction_id": "txn-9219e7",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -351.85
+      },
+      "meta": {
+        "provider_category": "PAYMENT",
+        "transaction_type": "Credit",
+        "provider_id": "7dfc08"
+      }
+    },
+    {
+      "timestamp": "2024-04-08T14:13:07Z",
+      "description": "Gift Received",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 4.28,
+      "currency": "EUR",
+      "transaction_id": "2d41a4",
+      "provider_transaction_id": "22b3a8",
+      "normalised_provider_transaction_id": "txn-7d253c",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -347.57
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Credit",
+        "provider_id": "2965a8"
+      }
+    },
+    {
+      "timestamp": "2024-08-20T14:48:40Z",
+      "description": "Loan Repayment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -96.26,
+      "currency": "EUR",
+      "transaction_id": "1a7c16",
+      "provider_transaction_id": "3c4782",
+      "normalised_provider_transaction_id": "txn-3a89a3",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -443.83
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Debit",
+        "provider_id": "698c3d"
+      }
+    },
+    {
+      "timestamp": "2023-07-12T00:26:29Z",
+      "description": "Loan Repayment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -44.59,
+      "currency": "EUR",
+      "transaction_id": "5896ef",
+      "provider_transaction_id": "33622a",
+      "normalised_provider_transaction_id": "txn-6d4734",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -488.42
+      },
+      "meta": {
+        "provider_category": "BILL",
+        "transaction_type": "Debit",
+        "provider_id": "84f72c"
+      }
+    },
+    {
+      "timestamp": "2024-09-29T07:38:58Z",
+      "description": "Credit Card Payment",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 90.12,
+      "currency": "EUR",
+      "transaction_id": "3b3705",
+      "provider_transaction_id": "694da5",
+      "normalised_provider_transaction_id": "txn-3bbb68",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -398.3
+      },
+      "meta": {
+        "provider_category": "BILL",
+        "transaction_type": "Credit",
+        "provider_id": "36e2e1"
+      }
+    },
+    {
+      "timestamp": "2023-06-20T06:19:34Z",
+      "description": "Online Shopping",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -87.3,
+      "currency": "EUR",
+      "transaction_id": "515875",
+      "provider_transaction_id": "3c2218",
+      "normalised_provider_transaction_id": "txn-2df69f",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -485.6
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Debit",
+        "provider_id": "8ecbce"
+      }
+    },
+    {
+      "timestamp": "2024-08-30T23:49:58Z",
+      "description": "Salary Payment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -5.11,
+      "currency": "EUR",
+      "transaction_id": "88ee5a",
+      "provider_transaction_id": "6ea8b4",
+      "normalised_provider_transaction_id": "txn-41d3f5",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -490.71
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Debit",
+        "provider_id": "4e4886"
+      }
+    },
+    {
+      "timestamp": "2024-08-28T16:07:58Z",
+      "description": "Uber Ride Payment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -91.22,
+      "currency": "EUR",
+      "transaction_id": "16e356",
+      "provider_transaction_id": "33d49e",
+      "normalised_provider_transaction_id": "txn-4c75a4",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -581.93
+      },
+      "meta": {
+        "provider_category": "TRANSFER",
+        "transaction_type": "Debit",
+        "provider_id": "4445f1"
+      }
+    },
+    {
+      "timestamp": "2023-02-12T00:18:42Z",
+      "description": "Gym Membership",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 73.1,
+      "currency": "EUR",
+      "transaction_id": "7fc916",
+      "provider_transaction_id": "24c5bb",
+      "normalised_provider_transaction_id": "txn-6f3e0f",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -508.83
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Credit",
+        "provider_id": "936786"
+      }
+    },
+    {
+      "timestamp": "2024-08-11T09:46:00Z",
+      "description": "Grocery Store Payment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -91.58,
+      "currency": "EUR",
+      "transaction_id": "60226c",
+      "provider_transaction_id": "754e89",
+      "normalised_provider_transaction_id": "txn-696841",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -600.41
+      },
+      "meta": {
+        "provider_category": "BILL",
+        "transaction_type": "Debit",
+        "provider_id": "57e18a"
+      }
+    },
+    {
+      "timestamp": "2024-05-22T14:46:07Z",
+      "description": "Charity Donation",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 64.96,
+      "currency": "EUR",
+      "transaction_id": "1c3b97",
+      "provider_transaction_id": "1a83a1",
+      "normalised_provider_transaction_id": "txn-5acc8b",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -535.45
+      },
+      "meta": {
+        "provider_category": "PAYMENT",
+        "transaction_type": "Credit",
+        "provider_id": "74c9ba"
+      }
+    },
+    {
+      "timestamp": "2023-02-14T06:44:37Z",
+      "description": "Crypto Purchase",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -64.13,
+      "currency": "EUR",
+      "transaction_id": "82ac16",
+      "provider_transaction_id": "682b5c",
+      "normalised_provider_transaction_id": "txn-21ead9",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -599.58
+      },
+      "meta": {
+        "provider_category": "PAYMENT",
+        "transaction_type": "Debit",
+        "provider_id": "8b5298"
+      }
+    },
+    {
+      "timestamp": "2024-03-02T11:31:23Z",
+      "description": "Online Shopping",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -41.73,
+      "currency": "EUR",
+      "transaction_id": "4bd113",
+      "provider_transaction_id": "280776",
+      "normalised_provider_transaction_id": "txn-1cd8b1",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -641.31
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Debit",
+        "provider_id": "6cd852"
+      }
+    },
+    {
+      "timestamp": "2023-01-12T20:54:52Z",
+      "description": "Salary Payment",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 69.22,
+      "currency": "EUR",
+      "transaction_id": "544fee",
+      "provider_transaction_id": "44af31",
+      "normalised_provider_transaction_id": "txn-214189",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -572.09
+      },
+      "meta": {
+        "provider_category": "TRANSFER",
+        "transaction_type": "Credit",
+        "provider_id": "81ba1c"
+      }
+    },
+    {
+      "timestamp": "2024-02-19T20:58:35Z",
+      "description": "Credit Card Payment",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 60.83,
+      "currency": "EUR",
+      "transaction_id": "8f2ca8",
+      "provider_transaction_id": "69ea1f",
+      "normalised_provider_transaction_id": "txn-6f5c99",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -511.26
+      },
+      "meta": {
+        "provider_category": "BILL",
+        "transaction_type": "Credit",
+        "provider_id": "419c73"
+      }
+    },
+    {
+      "timestamp": "2024-08-27T20:13:00Z",
+      "description": "Coffee Shop Payment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -56.06,
+      "currency": "EUR",
+      "transaction_id": "2b5b38",
+      "provider_transaction_id": "fd916",
+      "normalised_provider_transaction_id": "txn-34f8f1",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -567.32
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Debit",
+        "provider_id": "60365b"
+      }
+    },
+    {
+      "timestamp": "2024-03-07T20:00:07Z",
+      "description": "Uber Ride Payment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -75.5,
+      "currency": "EUR",
+      "transaction_id": "7c7d42",
+      "provider_transaction_id": "71ccb9",
+      "normalised_provider_transaction_id": "txn-527433",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -642.82
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Debit",
+        "provider_id": "248e7c"
+      }
+    },
+    {
+      "timestamp": "2024-06-13T00:05:42Z",
+      "description": "Credit Card Payment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -41.27,
+      "currency": "EUR",
+      "transaction_id": "4cf57e",
+      "provider_transaction_id": "17d826",
+      "normalised_provider_transaction_id": "txn-670ab9",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -684.09
+      },
+      "meta": {
+        "provider_category": "BILL",
+        "transaction_type": "Debit",
+        "provider_id": "6cc94e"
+      }
+    },
+    {
+      "timestamp": "2024-05-17T13:57:19Z",
+      "description": "Gift Received",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -57.51,
+      "currency": "EUR",
+      "transaction_id": "6f7f72",
+      "provider_transaction_id": "407e28",
+      "normalised_provider_transaction_id": "txn-32251b",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -741.6
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Debit",
+        "provider_id": "4c7aa4"
+      }
+    },
+    {
+      "timestamp": "2024-11-12T10:57:44Z",
+      "description": "Gym Membership",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -81.93,
+      "currency": "EUR",
+      "transaction_id": "24b1ad",
+      "provider_transaction_id": "83af4a",
+      "normalised_provider_transaction_id": "txn-235c10",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -823.53
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Debit",
+        "provider_id": "5108fa"
+      }
+    },
+    {
+      "timestamp": "2023-03-03T00:32:36Z",
+      "description": "Salary Payment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -73.88,
+      "currency": "EUR",
+      "transaction_id": "5d000d",
+      "provider_transaction_id": "920757",
+      "normalised_provider_transaction_id": "txn-196ed0",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -897.41
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Debit",
+        "provider_id": "56aeee"
+      }
+    },
+    {
+      "timestamp": "2023-08-18T04:37:05Z",
+      "description": "OBA topup from Victor",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 83.21,
+      "currency": "EUR",
+      "transaction_id": "315881",
+      "provider_transaction_id": "229e58",
+      "normalised_provider_transaction_id": "txn-4ebf74",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -814.2
+      },
+      "meta": {
+        "provider_category": "TRANSFER",
+        "transaction_type": "Credit",
+        "provider_id": "60d232"
+      }
+    },
+    {
+      "timestamp": "2023-05-03T03:10:01Z",
+      "description": "Water Bill Payment",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 53.9,
+      "currency": "EUR",
+      "transaction_id": "8dc982",
+      "provider_transaction_id": "4cc5c8",
+      "normalised_provider_transaction_id": "txn-69b160",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -760.3
+      },
+      "meta": {
+        "provider_category": "BILL",
+        "transaction_type": "Credit",
+        "provider_id": "7f24fb"
+      }
+    },
+    {
+      "timestamp": "2024-09-06T02:06:29Z",
+      "description": "Loan Repayment",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 6.17,
+      "currency": "EUR",
+      "transaction_id": "f7a4c",
+      "provider_transaction_id": "81fb7f",
+      "normalised_provider_transaction_id": "txn-64480f",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -754.13
+      },
+      "meta": {
+        "provider_category": "TRANSFER",
+        "transaction_type": "Credit",
+        "provider_id": "310cb8"
+      }
+    },
+    {
+      "timestamp": "2024-05-08T20:14:31Z",
+      "description": "OBA topup from Victor",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -48.96,
+      "currency": "EUR",
+      "transaction_id": "92411c",
+      "provider_transaction_id": "7b1425",
+      "normalised_provider_transaction_id": "txn-1adbf8",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -803.09
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Debit",
+        "provider_id": "87bcb2"
+      }
+    },
+    {
+      "timestamp": "2024-02-09T20:40:34Z",
+      "description": "Water Bill Payment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -29.78,
+      "currency": "EUR",
+      "transaction_id": "92cb2f",
+      "provider_transaction_id": "72f72c",
+      "normalised_provider_transaction_id": "txn-666109",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -832.87
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Debit",
+        "provider_id": "2ec774"
+      }
+    },
+    {
+      "timestamp": "2023-03-13T07:48:51Z",
+      "description": "Loan Repayment",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 25.7,
+      "currency": "EUR",
+      "transaction_id": "1a41d7",
+      "provider_transaction_id": "1b9a81",
+      "normalised_provider_transaction_id": "txn-206f98",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -807.17
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Credit",
+        "provider_id": "246659"
+      }
+    },
+    {
+      "timestamp": "2024-07-27T09:49:50Z",
+      "description": "Coffee Shop Payment",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 86.95,
+      "currency": "EUR",
+      "transaction_id": "548bc3",
+      "provider_transaction_id": "7528d3",
+      "normalised_provider_transaction_id": "txn-7032c7",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -720.22
+      },
+      "meta": {
+        "provider_category": "PAYMENT",
+        "transaction_type": "Credit",
+        "provider_id": "41add4"
+      }
+    },
+    {
+      "timestamp": "2024-02-01T03:58:40Z",
+      "description": "Crypto Purchase",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 28.66,
+      "currency": "EUR",
+      "transaction_id": "82fd33",
+      "provider_transaction_id": "6efb36",
+      "normalised_provider_transaction_id": "txn-17182b",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -691.56
+      },
+      "meta": {
+        "provider_category": "BILL",
+        "transaction_type": "Credit",
+        "provider_id": "45b958"
+      }
+    },
+    {
+      "timestamp": "2023-04-17T01:17:19Z",
+      "description": "Gift Received",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -42.26,
+      "currency": "EUR",
+      "transaction_id": "2ab59a",
+      "provider_transaction_id": "334bec",
+      "normalised_provider_transaction_id": "txn-22debf",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -733.82
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Debit",
+        "provider_id": "653011"
+      }
+    },
+    {
+      "timestamp": "2024-01-12T18:22:24Z",
+      "description": "Gym Membership",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -35.91,
+      "currency": "EUR",
+      "transaction_id": "753db5",
+      "provider_transaction_id": "1001ec",
+      "normalised_provider_transaction_id": "txn-17f6df",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -769.73
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Debit",
+        "provider_id": "31ba73"
+      }
+    },
+    {
+      "timestamp": "2024-11-06T18:44:17Z",
+      "description": "Charity Donation",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -49.05,
+      "currency": "EUR",
+      "transaction_id": "8ab8e8",
+      "provider_transaction_id": "3703d8",
+      "normalised_provider_transaction_id": "txn-8e01d9",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -818.78
+      },
+      "meta": {
+        "provider_category": "TRANSFER",
+        "transaction_type": "Debit",
+        "provider_id": "333053"
+      }
+    },
+    {
+      "timestamp": "2023-02-09T00:17:00Z",
+      "description": "Gift Received",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -20.91,
+      "currency": "EUR",
+      "transaction_id": "6f297e",
+      "provider_transaction_id": "36eff0",
+      "normalised_provider_transaction_id": "txn-7fc34b",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -839.69
+      },
+      "meta": {
+        "provider_category": "PAYMENT",
+        "transaction_type": "Debit",
+        "provider_id": "53b545"
+      }
+    },
+    {
+      "timestamp": "2023-12-31T21:40:48Z",
+      "description": "Gym Membership",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 30.06,
+      "currency": "EUR",
+      "transaction_id": "6b034d",
+      "provider_transaction_id": "93a53f",
+      "normalised_provider_transaction_id": "txn-613bd5",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -809.63
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Credit",
+        "provider_id": "768f2c"
+      }
+    },
+    {
+      "timestamp": "2023-03-16T19:17:36Z",
+      "description": "Loan Repayment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -3.71,
+      "currency": "EUR",
+      "transaction_id": "89a0ee",
+      "provider_transaction_id": "3e9c54",
+      "normalised_provider_transaction_id": "txn-841b23",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -813.34
+      },
+      "meta": {
+        "provider_category": "BILL",
+        "transaction_type": "Debit",
+        "provider_id": "4adee7"
+      }
+    },
+    {
+      "timestamp": "2023-09-17T13:27:57Z",
+      "description": "Gift Received",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 99.63,
+      "currency": "EUR",
+      "transaction_id": "67c2aa",
+      "provider_transaction_id": "5cf3b7",
+      "normalised_provider_transaction_id": "txn-1c3d2a",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -713.71
+      },
+      "meta": {
+        "provider_category": "TRANSFER",
+        "transaction_type": "Credit",
+        "provider_id": "47baf6"
+      }
+    },
+    {
+      "timestamp": "2024-09-05T21:57:20Z",
+      "description": "Loan Repayment",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 77.89,
+      "currency": "EUR",
+      "transaction_id": "16dc0f",
+      "provider_transaction_id": "24a5a3",
+      "normalised_provider_transaction_id": "txn-92dbc8",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -635.82
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Credit",
+        "provider_id": "749746"
+      }
+    },
+    {
+      "timestamp": "2023-09-25T03:19:50Z",
+      "description": "Online Shopping",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -9.27,
+      "currency": "EUR",
+      "transaction_id": "320417",
+      "provider_transaction_id": "19ceb8",
+      "normalised_provider_transaction_id": "txn-6ad8c1",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -645.09
+      },
+      "meta": {
+        "provider_category": "EXCHANGE",
+        "transaction_type": "Debit",
+        "provider_id": "63fed4"
+      }
+    },
+    {
+      "timestamp": "2023-04-13T16:10:50Z",
+      "description": "Crypto Purchase",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 67.67,
+      "currency": "EUR",
+      "transaction_id": "22581f",
+      "provider_transaction_id": "8b3042",
+      "normalised_provider_transaction_id": "txn-6741c5",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -577.42
+      },
+      "meta": {
+        "provider_category": "TRANSFER",
+        "transaction_type": "Credit",
+        "provider_id": "48b26d"
+      }
+    },
+    {
+      "timestamp": "2024-07-09T01:05:57Z",
+      "description": "Crypto Purchase",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -14.01,
+      "currency": "EUR",
+      "transaction_id": "58c931",
+      "provider_transaction_id": "3d2844",
+      "normalised_provider_transaction_id": "txn-8c6be4",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -591.43
+      },
+      "meta": {
+        "provider_category": "PAYMENT",
+        "transaction_type": "Debit",
+        "provider_id": "6ff414"
+      }
+    },
+    {
+      "timestamp": "2023-03-10T08:58:45Z",
+      "description": "Grocery Store Payment",
+      "transaction_type": "CREDIT",
+      "transaction_category": "CREDIT",
+      "transaction_classification": [],
+      "amount": 59.68,
+      "currency": "EUR",
+      "transaction_id": "7b3a74",
+      "provider_transaction_id": "9203f5",
+      "normalised_provider_transaction_id": "txn-82450e",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -531.75
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Credit",
+        "provider_id": "9490b0"
+      }
+    },
+    {
+      "timestamp": "2024-11-03T00:54:28Z",
+      "description": "Gift Received",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -28.12,
+      "currency": "EUR",
+      "transaction_id": "2795c6",
+      "provider_transaction_id": "9207c9",
+      "normalised_provider_transaction_id": "txn-6c4cfa",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -559.87
+      },
+      "meta": {
+        "provider_category": "TOPUP",
+        "transaction_type": "Debit",
+        "provider_id": "57d95c"
+      }
+    },
+    {
+      "timestamp": "2023-10-14T17:02:52Z",
+      "description": "Coffee Shop Payment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -71.09,
+      "currency": "EUR",
+      "transaction_id": "f744f",
+      "provider_transaction_id": "835f8c",
+      "normalised_provider_transaction_id": "txn-30547d",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -630.96
+      },
+      "meta": {
+        "provider_category": "PAYMENT",
+        "transaction_type": "Debit",
+        "provider_id": "6d68b7"
+      }
+    },
+    {
+      "timestamp": "2024-05-11T08:24:21Z",
+      "description": "Loan Repayment",
+      "transaction_type": "DEBIT",
+      "transaction_category": "DEBIT",
+      "transaction_classification": [],
+      "amount": -98.99,
+      "currency": "EUR",
+      "transaction_id": "38de35",
+      "provider_transaction_id": "1f2129",
+      "normalised_provider_transaction_id": "txn-9208a6",
+      "running_balance": {
+        "currency": "EUR",
+        "amount": -729.95
+      },
+      "meta": {
+        "provider_category": "TRANSFER",
+        "transaction_type": "Debit",
+        "provider_id": "8cf6ee"
+      }
+    }
+  ],
+  "status": "Succeeded"
+}

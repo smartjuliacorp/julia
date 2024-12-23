@@ -3,9 +3,9 @@ import {asyncHandler} from '../utils/asyncHandler';
 import {ACCESS_TOKEN, DATA_URL} from '../config/env';
 import axios from 'axios';
 import {renderHtml} from '../utils/renderHtml';
-// import { accessToken } from './auth.routes';
+import { accessToken } from './auth.routes';
 
-const accessToken = ACCESS_TOKEN;
+// const accessToken = ACCESS_TOKEN;
 const dataRouter = express.Router();
 let accountId = ""
 
@@ -112,4 +112,4 @@ dataRouter.get(
     })
 );
 
-export {dataRouter};
+export { dataRouter };
