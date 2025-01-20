@@ -1,9 +1,11 @@
 import express, {Request, Response} from 'express';
-import {asyncHandler} from '../utils/asyncHandler';
-import {ACCESS_TOKEN, DATA_URL} from '../config/env';
+import { asyncHandler } from '../utils/asyncHandler';
+import { ACCESS_TOKEN, DATA_URL } from '../config/env';
 import axios from 'axios';
-import {renderHtml} from '../utils/renderHtml';
+import { renderHtml } from '../utils/renderHtml';
 import { accessToken } from './auth.routes';
+import TransactionModel from "../database/models/Transaction";
+import AccountsModel from "../database/models/Account";
 
 // const accessToken = ACCESS_TOKEN;
 const dataRouter = express.Router();
@@ -21,6 +23,19 @@ dataRouter.get(
         const response = await axios.get(url, {
             headers: {Authorization: `Bearer ${accessToken}`},
         });
+
+        try {
+            const data = new AccountsModel({
+                results: response.data.results,
+                status: response.data.status,
+            });
+            await data.save();
+
+        } catch (error) {
+            console.log(response.data)
+            console.error("Error saving data:", error);
+            res.status(500).json({ error: "Failed to store data" });
+        }
 
         res.json(response.data);
         accountId = response.data.results[0]?.account_id
@@ -56,6 +71,19 @@ dataRouter.get(
         const response = await axios.get(url, {
             headers: {Authorization: `Bearer ${accessToken}`},
         });
+
+        try {
+            const data = new TransactionModel({
+                results: response.data.results,
+                status: response.data.status,
+            });
+            await data.save();
+
+        } catch (error) {
+            console.log(response.data)
+            console.error("Error saving data:", error);
+            res.status(500).json({ error: "Failed to store data" });
+        }
 
         res.json(response.data);
     })

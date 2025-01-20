@@ -34,6 +34,8 @@ AUTH_API=auth.truelayer-sandbox.com
 DATA_API=api.truelayer.com
 PROVIDERS=uk-ob-all
 PORT=3000
+DB_USER=<mongodb_user>
+DB_PASSWORD=<mongodb_password>
 ```
 
 ---

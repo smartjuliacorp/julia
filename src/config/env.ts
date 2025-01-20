@@ -22,3 +22,7 @@ export const DATA_URL = `https://${DATA_API}/data/v1`;
 
 export const ACCESS_TOKEN: string = process.env.ACCESS_TOKEN!;
 export const OPENAI_API_KEY: string = process.env.OPENAI_API_KEY!;
+
+export const DB_NAME: string = process.env.DB_NAME!;
+export const DB_USER: string = process.env.DB_USER!;
+export const DB_PASSWORD: string = process.env.DB_PASSWORD!;
